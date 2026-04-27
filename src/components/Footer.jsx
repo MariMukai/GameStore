@@ -6,6 +6,7 @@ const Footer = () => {
       <h6>Copyright © 2026 - GameStore</h6>
     </section>
   )
+  
 }
 
 export default Footer
