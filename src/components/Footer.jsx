@@ -1,8 +1,10 @@
-
+import '../css/card.css'
 
 const Footer = () => {
   return (
-    <div>Footer</div>
+   <section>
+    <h6>Copyright © 2026 - GameStore</h6>
+   </section>
   )
 }
 
